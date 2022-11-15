@@ -33,3 +33,4 @@ http://localhost:PORT/api/seed
 5. yarn add @nestjs/passport @nestjs/jwt passport passport-jwt
 6. yarn add -D @types/passport-jwt  @types/passport
 7. nest g gu auth/guards/userRole --no-spec
+8. yarn add @nestjs/swagger
